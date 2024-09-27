@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://eferider.github.io/sitemap.eferider.gz
+Sitemap: https://eferider.github.io/app/sitemap.eferider.gz
+Sitemap: https://eferider.github.io/assets/sitemap.eferider.gz
+Sitemap: https://eferider.github.io/css/sitemap.eferider.gz
+Sitemap: https://eferider.github.io/data/sitemap.eferider.gz
+Sitemap: https://eferider.github.io/includes/sitemap.eferider.gz
+Sitemap: https://eferider.github.io/item/sitemap.eferider.gz
+Sitemap: https://eferider.github.io/src/sitemap.eferider.gz
